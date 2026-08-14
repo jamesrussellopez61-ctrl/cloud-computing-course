@@ -12,6 +12,8 @@ AWS global infrastructure is built around **AWS Regions** and **Availability Zon
 ## Cloud Management Console
 The **AWS Management Console** is a web-based portal that allows users to access, build, and manage their cloud resources. It provides intuitive dashboards, a mobile management app, and integrated tools like AWS CloudShell for command-line access directly from the browser.
 
+![AWS Console Screenshot](./screenshots/aws-homepage.png)
+
 ## Core Services
 1. **Compute**: **Amazon EC2** (Elastic Compute Cloud) – Provides scalable virtual servers in the cloud.
 2. **Storage**: **Amazon S3** (Simple Storage Service) – Highly durable object storage for data and backup.
