@@ -12,6 +12,8 @@ Azure has a vast global footprint designed to support enterprise residency requi
 ## Cloud Management Console
 The **Azure Portal** is a unified, browser-based console for building, managing, and monitoring all Azure cloud resources. It features customizable dashboards, integrated Azure Cloud Shell, and seamless access to resource management tools.
 
+![Azure Portal Screenshot](./screenshots/azure-homepage.png)
+
 ## Core Services
 1. **Compute**: **Azure Virtual Machines** – On-demand Linux and Windows VM infrastructure.
 2. **Storage**: **Azure Blob Storage** – Massive object storage for unstructured data.
